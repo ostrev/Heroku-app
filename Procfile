@@ -1,1 +1,1 @@
-web: gunicorn accounts.wsgi --log-file -
+web: gunicorn customer_app.accounts.wsgi --log-file -
