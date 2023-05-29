@@ -178,7 +178,6 @@ EMAIL_HOST_PASSWORD = '**********'
 # STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 
-# docker run -p 5432:5432 -e POSTGRES_USER=masterUsername -e POSTGRES_PASSWORD=Ilovepoli04* -d -v my-postgres-data:/var/lib/postgresql/data --name custom-name postgres:latest
 
 
 # CORS Configuration S3
